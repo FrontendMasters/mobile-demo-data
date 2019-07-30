@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "year": 1972,
+    "certification": "R",
+    "runtime": 175,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.2,
+    "metascore": 100
+  },
+  {
+    "id": "tt0074958",
+    "title": "Network",
+    "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmFiOWY3ZTktOTYwNy00ZTUzLTk0ODQtNzIxMzQ0ZDFjMTgyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1976,
+    "certification": "R",
+    "runtime": 121,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.1,
+    "metascore": 83
+  },
+  {
+    "id": "tt0307901",
+    "title": "25th Hour",
+    "description": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmE0YjdlYTktMTU4Ni00Mjk2LWI3NWMtM2RjNmFiOTk4YjYxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR4,0,140,209_AL_.jpg",
+    "year": 2002,
+    "certification": "R",
+    "runtime": 135,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.7,
+    "metascore": 67
+  },
+  {
+    "id": "tt0067433",
+    "title": "Minnie and Moskowitz",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjUxNTg5OWUtNDVlOS00M2EyLTlhZmMtNDAyOGQ1OGViZTEzXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1971,
+    "certification": "GP",
+    "runtime": 114,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "metascore": 0
+  },
+  {
+    "id": "tt0099685",
+    "title": "Goodfellas",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1990,
+    "certification": "R",
+    "runtime": 146,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "metascore": 89
+  },
+  {
+    "id": "tt0061512",
+    "title": "Cool Hand Luke",
+    "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1967,
+    "certification": "GP",
+    "runtime": 127,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "metascore": 91
+  },
+  {
+    "id": "tt0070379",
+    "title": "Mean Streets",
+    "description": "A small-time hood aspires to work his way up the ranks of a local mob.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1973,
+    "certification": "R",
+    "runtime": 112,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 7.3,
+    "metascore": 96
+  },
+  {
+    "id": "tt0084805",
+    "title": "Tootsie",
+    "description": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1982,
+    "certification": "PG",
+    "runtime": 116,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "metascore": 88
+  },
+  {
+    "id": "tt0050212",
+    "title": "The Bridge on the River Kwai",
+    "description": "After settling his differences with a Japanese P.O.W. camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors, while oblivious to a plan by the Allies to destroy it.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1957,
+    "certification": "PG",
+    "runtime": 161,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "rating": 8.2,
+    "metascore": 87
+  },
+  {
+    "id": "tt0065063",
+    "title": "Take the Money and Run",
+    "description": "The life and times of Virgil Starkwell, inept bank robber.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1969,
+    "certification": "M",
+    "runtime": 85,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.3,
+    "metascore": 67
+  },
+  {
+    "id": "tt0037674",
+    "title": "Children of Paradise",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1945,
+    "certification": "Not Rated",
+    "runtime": 189,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.3,
+    "metascore": 0
+  },
+  {
+    "id": "tt0074860",
+    "title": "Marathon Man",
+    "description": "A graduate history student is unwittingly caught in the middle of an international conspiracy involving stolen diamonds, an exiled Nazi war criminal, and a rogue government agent.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmEzYTg1YzktMWUwNy00ZmQ4LWJlYTItNjViOGMzNDJkODA4XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1976,
+    "certification": "R",
+    "runtime": 125,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 7.5,
+    "metascore": 64
+  },
+  {
+    "id": "tt0030643",
+    "title": "Port of Shadows",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAzMDMwMjgzMl5BMl5BanBnXkFtZTgwOTgzMTI0NDE@._V1_UY209_CR4,0,140,209_AL_.jpg",
+    "year": 1938,
+    "certification": "Not Rated",
+    "runtime": 91,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.7,
+    "metascore": 0
+  },
+  {
+    "id": "tt0092563",
+    "title": "Angel Heart",
+    "description": "A private investigator is hired by a man who calls himself Louis Cyphre to track down a singer named Johnny Favorite. But the investigation takes an unexpected and somber turn.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1987,
+    "certification": "R",
+    "runtime": 113,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 7.3,
+    "metascore": 61
+  },
+  {
+    "id": "tt0037674",
+    "title": "Children of Paradise",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1945,
+    "certification": "Not Rated",
+    "runtime": 189,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.3,
+    "metascore": 0
+  },
+  {
+    "id": "tt0084805",
+    "title": "Tootsie",
+    "description": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4MGJjMTktNGM4Ni00ODliLWJlYjQtNjc4NmY2NjQ3NzEzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1982,
+    "certification": "PG",
+    "runtime": 116,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "metascore": 88
+  },
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "year": 1972,
+    "certification": "R",
+    "runtime": 175,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.2,
+    "metascore": 100
+  },
+  {
+    "id": "tt0120663",
+    "title": "Eyes Wide Shut",
+    "description": "A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTUwNjI1N15BMl5BanBnXkFtZTYwOTE1ODc5._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1999,
+    "certification": "R",
+    "runtime": 159,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 7.4,
+    "metascore": 68
+  },
+  {
+    "id": "tt0043924",
+    "title": "A Place in the Sun",
+    "description": "A poor boy gets a job working for his rich uncle and ends up falling in love with two women.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmNjMjE2ZDMtODQzYS00ZDc2LTk0ODgtNjI1NTNhZWI5MmE0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1951,
+    "certification": "Passed",
+    "runtime": 122,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "metascore": 76
+  },
+  {
+    "id": "tt0065214",
+    "title": "The Wild Bunch",
+    "description": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGUyYTZmOWItMDJhMi00N2IxLWIyNDMtNjUxM2ZiYmU5YWU1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1969,
+    "certification": "R",
+    "runtime": 135,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "rating": 8,
+    "metascore": 95
+  },
+  {
+    "id": "tt0055031",
+    "title": "Judgment at Nuremberg",
+    "description": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDZjMTIwZTQtNTM3OS00OTUyLWI5MTMtOTNjYWVkNzhjMWIxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1961,
+    "certification": "Not Rated",
+    "runtime": 186,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "rating": 8.2,
+    "metascore": 60
+  },
+  {
+    "id": "tt0078718",
+    "title": "...and justice for all.",
+    "description": "A lawyer is forced to defend a guilty judge, while defending other innocent clients, and trying to find punishment for the guilty and provide justice for the innocent.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1979,
+    "certification": "R",
+    "runtime": 119,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 7.4,
+    "metascore": 58
+  },
+  {
+    "id": "tt0114660",
+    "title": "Things to Do in Denver When You're Dead",
+    "description": "Five different criminals face imminent death after botching a job quite badly.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzI0OWEzZmItOGUyOC00M2Y2LWIzNDEtY2EzYzAwNWI0ZDkyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1995,
+    "certification": "R",
+    "runtime": 115,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 6.8,
+    "metascore": 46
+  },
+  {
+    "id": "tt0046414",
+    "title": "Beat the Devil",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3MDg2OTAzNF5BMl5BanBnXkFtZTgwODUzNzYzMjE@._V1_UY209_CR10,0,140,209_AL_.jpg",
+    "year": 1953,
+    "certification": "Approved",
+    "runtime": 89,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 6.6,
+    "metascore": 0
+  },
+  {
+    "id": "tt0054997",
+    "title": "The Hustler",
+    "description": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjhjODI2NTItMGE1ZS00NThiLWE1MmYtOWE3YzcyNzY1MTJlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1961,
+    "certification": "Not Rated",
+    "runtime": 134,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "rating": 8,
+    "metascore": 90
+  },
+  {
+    "id": "tt0119008",
+    "title": "Donnie Brasco",
+    "description": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzMzMDZkYWEtODIzNS00YjI3LTkxNTktOWEyZGM3ZWI2MWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1997,
+    "certification": "R",
+    "runtime": 127,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.8,
+    "metascore": 76
+  },
+  {
+    "id": "tt0094746",
+    "title": "Biloxi Blues",
+    "description": "A group of young recruits go through boot camp during the Second World War in Biloxi, Mississippi. From the play by Neil Simon.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzI1ZWYwMmQtMDA1My00N2U3LWJlMGMtM2UxNTk2ZjhjMmMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1988,
+    "certification": "PG-13",
+    "runtime": 106,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 6.6,
+    "metascore": 61
+  },
+  {
+    "id": "tt0088939",
+    "title": "The Color Purple",
+    "description": "A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDRkOWQ5NGUtYTVmOS00ZjNhLWEwODgtOGI2MmUxNTBkMjU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1985,
+    "certification": "PG-13",
+    "runtime": 154,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.8,
+    "metascore": 78
+  },
+  {
+    "id": "tt0097778",
+    "title": "Look Who's Talking",
+    "description": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn boy is narrated through voice-over.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1989,
+    "certification": "PG-13",
+    "runtime": 93,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 5.8,
+    "metascore": 51
+  },
+  {
+    "id": "tt0479143",
+    "title": "Rocky Balboa",
+    "description": "Thirty years after the ring of the first bell, Rocky Balboa comes out of retirement and dons his gloves for his final fight; against the reigning heavyweight champ Mason 'The Line' Dixon.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWIyNmQyNjctYmVmMS00MGI4LWIxMmUtNjA0ODYzOTA0Yjk0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR5,0,140,209_AL_.jpg",
+    "year": 2006,
+    "certification": "PG",
+    "runtime": 102,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "rating": 7.2,
+    "metascore": 63
+  },
+  {
+    "id": "tt0057163",
+    "title": "Hud",
+    "description": "Honest and hard-working Texas rancher Homer Bannon has a conflict with his unscrupulous, selfish, arrogant and egotistical son Hud, who sank into alcoholism after accidentally killing his brother in a car crash.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjA3MzFlZDQtNTY3Ny00OTM1LWI1ODctNmE4ZWM5ZTU2MjA5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1963,
+    "certification": "Not Rated",
+    "runtime": 112,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.9,
+    "metascore": 62
+  },
+  {
+    "id": "tt0114660",
+    "title": "Things to Do in Denver When You're Dead",
+    "description": "Five different criminals face imminent death after botching a job quite badly.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzI0OWEzZmItOGUyOC00M2Y2LWIzNDEtY2EzYzAwNWI0ZDkyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1995,
+    "certification": "R",
+    "runtime": 115,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 6.8,
+    "metascore": 46
+  },
+  {
+    "id": "tt0110148",
+    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "description": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYThmYjJhMGItNjlmOC00ZDRiLWEzNjUtZjU4MjA3MzY0MzFmXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1994,
+    "certification": "R",
+    "runtime": 123,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "rating": 7.6,
+    "metascore": 59
+  },
+  {
+    "id": "tt0041959",
+    "title": "The Third Man",
+    "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1949,
+    "certification": "Not Rated",
+    "runtime": 93,
+    "genres": [
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 8.2,
+    "metascore": 97
+  },
+  {
+    "id": "tt0073312",
+    "title": "Love and Death",
+    "description": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGFkNDk4NmItZmQ4OS00YWIwLThiMTctZWYyMWQ3MjUxYjhlXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_UY209_CR8,0,140,209_AL_.jpg",
+    "year": 1975,
+    "certification": "PG",
+    "runtime": 85,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "rating": 7.8,
+    "metascore": 89
+  },
+  {
+    "id": "tt0061722",
+    "title": "The Graduate",
+    "description": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjQ4MzUzYjYtYzk1My00M2Y2LWExMDEtY2E1NTlhMmQ0NGQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR4,0,140,209_AL_.jpg",
+    "year": 1967,
+    "certification": "PG",
+    "runtime": 106,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8,
+    "metascore": 83
+  },
+  {
+    "id": "tt0096874",
+    "title": "Back to the Future Part II",
+    "description": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1989,
+    "certification": "PG",
+    "runtime": 108,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "rating": 7.8,
+    "metascore": 57
+  },
+  {
+    "id": "tt0065724",
+    "title": "Five Easy Pieces",
+    "description": "A dropout from upper-class America picks up work along the way on oil rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTRiY2VkMjctNWQzZC00NjAyLTkzNjktYzAwN2M2ODNhOTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1970,
+    "certification": "R",
+    "runtime": 98,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.5,
+    "metascore": 85
+  },
+  {
+    "id": "tt0103905",
+    "title": "Man Bites Dog",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWQzYjc4MDctOGRjNy00MzExLTgyZDEtMjgxMmRkZjA1ZTRlXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_UY209_CR14,0,140,209_AL_.jpg",
+    "year": 1992,
+    "certification": "NC-17",
+    "runtime": 95,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.5,
+    "metascore": 0
+  },
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "year": 1972,
+    "certification": "R",
+    "runtime": 175,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.2,
+    "metascore": 100
+  },
+  {
+    "id": "tt0114814",
+    "title": "The Usual Suspects",
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1995,
+    "certification": "R",
+    "runtime": 106,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 8.6,
+    "metascore": 77
+  },
+  {
+    "id": "tt0069747",
+    "title": "The Mad Adventures of Rabbi Jacob",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTVkZGNlYmYtNjFiYy00NTcxLWEyNTAtMWM2NWU4MDk4ZTNmXkEyXkFqcGdeQXVyNTkyMjQwNw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1973,
+    "certification": "G",
+    "runtime": 95,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.5,
+    "metascore": 0
+  },
+  {
+    "id": "tt0211915",
+    "title": "Amélie",
+    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 2001,
+    "certification": "R",
+    "runtime": 122,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "rating": 8.3,
+    "metascore": 69
+  },
+  {
+    "id": "tt0103905",
+    "title": "Man Bites Dog",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWQzYjc4MDctOGRjNy00MzExLTgyZDEtMjgxMmRkZjA1ZTRlXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_UY209_CR14,0,140,209_AL_.jpg",
+    "year": 1992,
+    "certification": "NC-17",
+    "runtime": 95,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.5,
+    "metascore": 0
+  },
+  {
+    "id": "tt0075314",
+    "title": "Taxi Driver",
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1976,
+    "certification": "R",
+    "runtime": 114,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.3,
+    "metascore": 94
+  },
+  {
+    "id": "tt0071562",
+    "title": "The Godfather: Part II",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "year": 1974,
+    "certification": "R",
+    "runtime": 202,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9,
+    "metascore": 90
+  },
+  {
+    "id": "tt0069747",
+    "title": "The Mad Adventures of Rabbi Jacob",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1973,
+    "certification": "G",
+    "runtime": 95,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.5,
+    "metascore": 0
+  },
+  {
+    "id": "tt0088286",
+    "title": "Top Secret!",
+    "description": "Parody of WWII spy movies in which an American rock and roll singer becomes involved in a Resistance plot to rescue a scientist imprisoned in East Germany.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1984,
+    "certification": "PG",
+    "runtime": 90,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "rating": 7.2,
+    "metascore": 68
+  },
+  {
+    "id": "tt0117477",
+    "title": "Ridicule",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1996,
+    "certification": "R",
+    "runtime": 102,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "metascore": 0
+  },
+  {
+    "id": "tt0099674",
+    "title": "The Godfather: Part III",
+    "description": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1990,
+    "certification": "R",
+    "runtime": 162,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.6,
+    "metascore": 60
+  },
+  {
+    "id": "tt0117477",
+    "title": "Ridicule",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1996,
+    "certification": "R",
+    "runtime": 102,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "metascore": 0
+  },
+  {
+    "id": "tt0110912",
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster & his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1994,
+    "certification": "R",
+    "runtime": 154,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.9,
+    "metascore": 94
+  },
+  {
+    "id": "tt0266697",
+    "title": "Kill Bill: Vol. 1",
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 2003,
+    "certification": "R",
+    "runtime": 111,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 8.1,
+    "metascore": 69
+  },
+  {
+    "id": "tt0093779",
+    "title": "The Princess Bride",
+    "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1987,
+    "certification": "PG",
+    "runtime": 98,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "rating": 8.1,
+    "metascore": 77
+  },
+  {
+    "id": "tt0088258",
+    "title": "This Is Spinal Tap",
+    "description": "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1984,
+    "certification": "R",
+    "runtime": 82,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "rating": 8,
+    "metascore": 92
+  },
+  {
+    "id": "tt0027552",
+    "title": "Bizarre, Bizarre",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1937,
+    "certification": "",
+    "runtime": 84,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.6,
+    "metascore": 0
+  },
+  {
+    "id": "tt0060196",
+    "title": "The Good, the Bad and the Ugly",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1966,
+    "certification": "R",
+    "runtime": 178,
+    "genres": [
+      "Western"
+    ],
+    "rating": 8.8,
+    "metascore": 90
+  },
+  {
+    "id": "tt0079817",
+    "title": "Rocky II",
+    "description": "Rocky struggles in family life after his bout with Apollo Creed, while the embarrassed champ insistently goads him to accept a challenge for a rematch.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTZmYzA4N2YtMzA1NS00OTU0LWJiNWItNDUxOWRiMGVjZjJkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1979,
+    "certification": "PG",
+    "runtime": 119,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "rating": 7.2,
+    "metascore": 61
+  },
+  {
+    "id": "tt0087843",
+    "title": "Once Upon a Time in America",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1984,
+    "certification": "R",
+    "runtime": 229,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.4,
+    "metascore": 0
+  },
+  {
+    "id": "tt0090555",
+    "title": "Crocodile Dundee",
+    "description": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjNlMTQ1MzQtMjNjNS00MWY4LTgxZTgtM2M5NThkMDg4N2ViXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1986,
+    "certification": "PG-13",
+    "runtime": 97,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 6.6,
+    "metascore": 62
+  },
+  {
+    "id": "tt0167404",
+    "title": "The Sixth Sense",
+    "description": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1999,
+    "certification": "PG-13",
+    "runtime": 107,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 8.1,
+    "metascore": 64
+  },
+  {
+    "id": "tt0100802",
+    "title": "Total Recall",
+    "description": "When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or does he?",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1990,
+    "certification": "R",
+    "runtime": 113,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 7.5,
+    "metascore": 57
+  },
+  {
+    "id": "tt0043014",
+    "title": "Sunset Blvd.",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1950,
+    "certification": "Not Rated",
+    "runtime": 110,
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "rating": 8.4,
+    "metascore": 0
+  },
+  {
+    "id": "tt0042192",
+    "title": "All About Eve",
+    "description": "An ingénue insinuates herself into the lives of an established but aging stage actress and her circle of theater friends.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1950,
+    "certification": "Passed",
+    "runtime": 138,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.3,
+    "metascore": 98
+  },
+  {
+    "id": "tt0022286",
+    "title": "The Public Enemy",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmJhZTU2NjEtZWM4MC00ZWU3LWEyOWUtMDgxNzI4ZTllYjcwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1931,
+    "certification": "Not Rated",
+    "runtime": 83,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "metascore": 0
+  },
+  {
+    "id": "tt0067588",
+    "title": "Play Misty for Me",
+    "description": "A brief fling between a male disc jockey and an obsessed female fan takes a frightening, and perhaps even deadly turn when another woman enters the picture.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjI4YTIyMWEtYjY4OS00ZDVmLWI5MjEtYmE3OGMxZDM4NmJlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1971,
+    "certification": "R",
+    "runtime": 102,
+    "genres": [
+      "Thriller"
+    ],
+    "rating": 7,
+    "metascore": 78
+  },
+  {
+    "id": "tt0084555",
+    "title": "Le père Noël est une ordure",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1982,
+    "certification": "",
+    "runtime": 88,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.6,
+    "metascore": 0
+  },
+  {
+    "id": "tt0105236",
+    "title": "Reservoir Dogs",
+    "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1992,
+    "certification": "R",
+    "runtime": 99,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.3,
+    "metascore": 79
+  },
+  {
+    "id": "tt0108399",
+    "title": "True Romance",
+    "description": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1993,
+    "certification": "R",
+    "runtime": 119,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.9,
+    "metascore": 59
+  },
+  {
+    "id": "tt0091225",
+    "title": "Howard the Duck",
+    "description": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWQ5Y2FmMmItZjYzNC00Yzc5LWE0ZjYtMTI4YTA1ZGJkZjgyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1986,
+    "certification": "PG",
+    "runtime": 110,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 4.6,
+    "metascore": 28
+  },
+  {
+    "id": "tt0075222",
+    "title": "Silent Movie",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWFkMmJhODItMDA2MC00NDFmLTllNzItYzE1YWMzYjVmYjFiXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1976,
+    "certification": "PG",
+    "runtime": 87,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 6.7,
+    "metascore": 0
+  },
+  {
+    "id": "tt0078907",
+    "title": "Les bronzés font du ski",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQzMDAxNDYwOV5BMl5BanBnXkFtZTgwNTE2MjkwMzE@._V1_UY209_CR7,0,140,209_AL_.jpg",
+    "year": 1979,
+    "certification": "Not Rated",
+    "runtime": 90,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.5,
+    "metascore": 0
+  },
+  {
+    "id": "tt0103064",
+    "title": "Terminator 2: Judgment Day",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1991,
+    "certification": "R",
+    "runtime": 137,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "rating": 8.5,
+    "metascore": 75
+  },
+  {
+    "id": "tt0096487",
+    "title": "Young Guns",
+    "description": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1988,
+    "certification": "R",
+    "runtime": 107,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "rating": 6.9,
+    "metascore": 50
+  },
+  {
+    "id": "tt0106519",
+    "title": "Carlito's Way",
+    "description": "A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1993,
+    "certification": "R",
+    "runtime": 144,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 7.9,
+    "metascore": 65
+  },
+  {
+    "id": "tt0137523",
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1999,
+    "certification": "R",
+    "runtime": 139,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.8,
+    "metascore": 66
+  },
+  {
+    "id": "tt0095159",
+    "title": "A Fish Called Wanda",
+    "description": "In London, four very different people team up to commit armed robbery, then try to doublecross each other for the loot.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTQ0ODhiNjEtMDFiYi00NmZhLWJkMzQtNTBkOGQwOTliZDAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1988,
+    "certification": "R",
+    "runtime": 108,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.6,
+    "metascore": 80
+  },
+  {
+    "id": "tt0084555",
+    "title": "Le père Noël est une ordure",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzUxODAzN2UtNzJjNi00ZWZjLTk2MGYtMGJjZjM4MTA1ZWY5XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_UY209_CR8,0,140,209_AL_.jpg",
+    "year": 1982,
+    "certification": "",
+    "runtime": 88,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.6,
+    "metascore": 0
+  },
+  {
+    "id": "tt0110357",
+    "title": "The Lion King",
+    "description": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1994,
+    "certification": "G",
+    "runtime": 88,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "metascore": 88
+  },
+  {
+    "id": "tt0120338",
+    "title": "Titanic",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1997,
+    "certification": "PG-13",
+    "runtime": 194,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "metascore": 75
+  },
+  {
+    "id": "tt0095705",
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "description": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODk1ZWM4ZjItMjFhZi00MDMxLTgxNmYtODFhNWZlZTkwM2UwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1988,
+    "certification": "PG-13",
+    "runtime": 85,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.6,
+    "metascore": 76
+  },
+  {
+    "id": "tt0078907",
+    "title": "Les bronzés font du ski",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1979,
+    "certification": "Not Rated",
+    "runtime": 90,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.5,
+    "metascore": 0
+  },
+  {
+    "id": "tt0084555",
+    "title": "Le père Noël est une ordure",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1982,
+    "certification": "",
+    "runtime": 88,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.6,
+    "metascore": 0
+  },
+  {
+    "id": "tt0061728",
+    "title": "The Restaurant",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmY2ODZjNmMtYjQzMi00ZjM5LWJlNTctYTMyMTAwOWM2OTA3XkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_UY209_CR7,0,140,209_AL_.jpg",
+    "year": 1966,
+    "certification": "Not Rated",
+    "runtime": 85,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "rating": 6.8,
+    "metascore": 0
+  },
+  {
+    "id": "tt0030252",
+    "title": "Hotel du Nord",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdjZDU0N2QtZGNlNi00ZjMzLWIxNjQtN2JjMWYzNmRlMGYyXkEyXkFqcGdeQXVyMTk2NjM4MzY@._V1_UY209_CR8,0,140,209_AL_.jpg",
+    "year": 1938,
+    "certification": "",
+    "runtime": 83,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "metascore": 0
+  },
+  {
+    "id": "tt0080339",
+    "title": "Airplane!",
+    "description": "A man afraid to fly must ensure that a plane lands safely after the pilots become sick.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1980,
+    "certification": "PG",
+    "runtime": 88,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.8,
+    "metascore": 78
+  },
+  {
+    "id": "tt0071562",
+    "title": "The Godfather: Part II",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "year": 1974,
+    "certification": "R",
+    "runtime": 202,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9,
+    "metascore": 90
+  },
+  {
+    "id": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "description": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1975,
+    "certification": "R",
+    "runtime": 133,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.7,
+    "metascore": 83
+  },
+  {
+    "id": "tt0054997",
+    "title": "The Hustler",
+    "description": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1961,
+    "certification": "Not Rated",
+    "runtime": 134,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "rating": 8,
+    "metascore": 90
+  },
+  {
+    "id": "tt0031381",
+    "title": "Gone with the Wind",
+    "description": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1939,
+    "certification": "Passed",
+    "runtime": 238,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "rating": 8.2,
+    "metascore": 97
+  },
+  {
+    "id": "tt0070355",
+    "title": "Magnum Force",
+    "description": "Dirty Harry is on the trail of vigilante cops who are not above going beyond the law to kill the city's undesirables.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1973,
+    "certification": "R",
+    "runtime": 124,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "rating": 7.2,
+    "metascore": 58
+  },
+  {
+    "id": "tt0075148",
+    "title": "Rocky",
+    "description": "A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1976,
+    "certification": "PG",
+    "runtime": 120,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "rating": 8.1,
+    "metascore": 70
+  },
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB470041630_.png",
+    "year": 1972,
+    "certification": "R",
+    "runtime": 175,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.2,
+    "metascore": 100
+  },
+  {
+    "id": "tt0103873",
+    "title": "Dead Alive",
+    "description": "A young man's mother is bitten by a Sumatran rat-monkey. She gets sick and dies, at which time she comes back to life, killing and eating dogs, nurses, friends, and neighbors.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTZlZDgxMDktNGIyOC00OGVmLWFkMmYtNWM3MjBmMDUzNTc4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR1,0,140,209_AL_.jpg",
+    "year": 1992,
+    "certification": "R",
+    "runtime": 104,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "rating": 7.5,
+    "metascore": 54
+  },
+  {
+    "id": "tt0109830",
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR2,0,140,209_AL_.jpg",
+    "year": 1994,
+    "certification": "PG-13",
+    "runtime": 142,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.8,
+    "metascore": 82
+  },
+  {
+    "id": "tt0091225",
+    "title": "Howard the Duck",
+    "description": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWQ5Y2FmMmItZjYzNC00Yzc5LWE0ZjYtMTI4YTA1ZGJkZjgyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1986,
+    "certification": "PG",
+    "runtime": 110,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 4.6,
+    "metascore": 28
+  },
+  {
+    "id": "tt0108525",
+    "title": "Wayne's World 2",
+    "description": "The inseparable duo try to organize a rock concert while Wayne must fend off a record producer who has an eye for his girlfriend.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTdhODcyMGMtMzg3NC00MTViLWJiZjktZWIyY2NhNWZhYzUxXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1993,
+    "certification": "PG-13",
+    "runtime": 95,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "rating": 6.2,
+    "metascore": 60
+  },
+  {
+    "id": "tt0074281",
+    "title": "Car Wash",
+    "description": "A comedic take on the daily life of a car wash employees, chronicling their hopes, fears, joys, dreams and tribulations. And meeting a few eccentric costumers along the way.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2Q3MjVjM2EtYmExMS00YTRhLTllMjgtYWEyNGMyMDQ4NmI1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1976,
+    "certification": "PG",
+    "runtime": 97,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 6.1,
+    "metascore": 70
+  },
+  {
+    "id": "tt0053291",
+    "title": "Some Like It Hot",
+    "description": "When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "year": 1959,
+    "certification": "Not Rated",
+    "runtime": 121,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "rating": 8.2,
+    "metascore": 97
+  },
+  {
+    "id": "tt0065421",
+    "title": "The Aristocats",
+    "description": "With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU1MzM0MjcxMF5BMl5BanBnXkFtZTgwODQ0MzcxMTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "year": 1970,
+    "certification": "G",
+    "runtime": 78,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 7.1,
+    "metascore": 66
+  }
+]
